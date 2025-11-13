@@ -163,10 +163,10 @@ Monitoring and performance analysis
 
 Real-world automation used by enterprises
 
-.................................................................................................
+...........................
 Author:
 
-Anup Jadhav
-Email: jadhavanup15@gmail.com
-GitHub: https://github.com/Anupj11
+Anup Jadhav |
+Email: jadhavanup15@gmail.com |
+GitHub: https://github.com/Anupj11 |
 LinkedIn: https://www.linkedin.com/in/anup-jadhav/
